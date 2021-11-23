@@ -1,5 +1,7 @@
 # COVID-19-Detection-using-NLP
 
+Presentation Link:
+https://www.youtube.com/watch?v=uSDq2PNSypE 
 
 
 In this blog, we have focused in distinguish the cough to determine if the person is infected with coronavirus or not.
